@@ -1,149 +1,16 @@
-ul{list-style-type: none;}
-
 #text{font-family: 'Fira Sans', sans-serif;}
 #text_head{font-family: 'Fira Sans', sans-serif; background-color: black;}
 
 
 .header {
   padding: 0.2%;
-  width: 90%;
   text-align: center;
   background: #000000;
   color: white;
   background-color: black;
   font-size: 30px;
 }
-a{text-decoration: none; color: blue;}
-.G:visited{color: blue;}
-.G:hover{color: orange;}
-.G:active {color: red;}
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-.divp1 {
-  background: red;
-  color: white;
-  font-size: 30px;
-  width: 500px;
-  height: 500px;
-  text-align: center;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  padding: 8px;
- }
-
-a {
-  text-decoration: none;
-  color: #000AFF;
-  font-family: 'Roboto', sans-serif;    
-}
-
-.news1 {border: 4px dashed black;}
-
-.news1 {
-  float: left;
-  background: orange;
-  color: white;
-  font-size: 30px;
-  width: 250px;
-  height: 250px;
-  text-align: center;
-}
-
-.news1:hover  {
-  opacity: 0.6;
-}
-
-.news2 {border: 4px dashed black;}
-
-.news2 {
-  float: left;
-  background: orange;
-  color: white;
-  font-size: 30px;
-  width: 250px;
-  height: 250px;
-  text-align: center;
-}
-
-.news2:hover  {
-  opacity: 0.6;
-}
-
-.news3 {border: 4px dashed black;}
-
-.news3 {
-  float: left;
-  background: orange;
-  color: white;
-  font-size: 30px;
-  width: 250px;
-  height: 250px;
-  text-align: center;
-}
-
-.news3:hover  {
-  opacity: 0.6;
-}
-
-.news4 {border: 4px dashed black;}
-
-.news4 {
-  float: left;
-  background: orange;
-  color: white;
-  font-size: 30px;
-  width: 250px;
-  height: 250px;
-  text-align: center;
-}
-
-.news4:hover  {
-  opacity: 0.6;
-}
-
-.news5 {border: 4px dashed black;}
-
-.news5 {
-  float: left;
-  background: orange;
-  color: white;
-  font-size: 30px;
-  width: 250px;
-  height: 250px;
-  text-align: center;
-}
-
-.news5:hover  {
-  opacity: 0.6;
-}
-
-
-.hide {
-  display: none;
-}
-    
-.myDIV:hover + .hide {
-  display: block;
-  color: red;
-}
-
-.hide2 {
-  display: none;
-}
-    
-.myDIV2:hover + .hide {
-  display: block;
-  color: red;
+#1{
+ background-color: blue;
 }
